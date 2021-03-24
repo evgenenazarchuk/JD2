@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"by.it_academy.jd2.untils","l":"ApacheCommonsLang3CheckedTest"},{"p":"by.it_academy.jd2.untils","l":"CheckerUtils"},{"p":"by.it_academy.jd2","l":"Hello"}]
