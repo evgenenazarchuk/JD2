@@ -71,7 +71,7 @@
                             <directory>${basedir}/src/main/webapp/</directory>
                         </resource>
                     </webResources>
-                    <webXml>${basedir}/src/main/webapp/WEB-INF/web.xml</webXml>
+                    <webXml>Homework2/src/main/webapp/WEB-INF/web.xml</webXml>
                 </configuration>
             </plugin>
 
