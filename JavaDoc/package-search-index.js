@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"by.it_academy.jd2"},{"l":"by.it_academy.jd2.untils"}]
